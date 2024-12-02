@@ -133,3 +133,5 @@ This code extensively draws inspiration from [pytorch-CycleGAN-and-pix2pix](http
 
 ## 📧 Contact the Author
  ayush[dot]somani[at]uit.no
+
+### See the author [Ayush's](https://www.linkedin.com/in/ayushsomani001/) git repository here: https://github.com/AyushSomani001/VirtualStain_I2I
