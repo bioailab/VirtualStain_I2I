@@ -1,3 +1,5 @@
+### See [the author's](http://www.ayushsomani.com/) git repository here: https://github.com/AyushSomani001/VirtualStain_I2I
+
 **[Virtual Labeling of Mitochondria in Living Cells using Correlative Imaging and Physics-guided Deep Learning
 ](https://opg.optica.org/boe/abstract.cfm?uri=boe-13-10-5495)**
 <br />
@@ -133,5 +135,3 @@ This code extensively draws inspiration from [pytorch-CycleGAN-and-pix2pix](http
 
 ## 📧 Contact the Author
  ayush[dot]somani[at]uit.no
-
-### See the author [Ayush's](https://www.linkedin.com/in/ayushsomani001/) git repository here: https://github.com/AyushSomani001/VirtualStain_I2I
